@@ -4,7 +4,7 @@ Proposed dataset for the Beggining Data Storytelling Case Study course on Dataca
 
 ## Description
 
-The dataset `enrollment-colombia.csv` (found in the [data folder](https://github.com/camartinezbu/colombia-enrollment/blob/main/data/final/))contains information about the enrollment of students to the higher education programs in Colombia recognized by the Ministry of Education. The following is the description of the columns in the dataset:
+The dataset `enrollment-colombia.csv` (found in the [data folder](https://github.com/camartinezbu/colombia-enrollment/blob/main/data/final/)) contains information about the enrollment of students to the higher education programs in Colombia recognized by the Ministry of Education. The following is the description of the columns in the dataset:
 
 | Column          | Description                                                                                                                                                                                                                                                          |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,3 +20,8 @@ The dataset `enrollment-colombia.csv` (found in the [data folder](https://github
 | Name_Program    | Name of the higher education program.                                                                                                                                                                                                                                |
 | Sex             | 1 = Men, 2 = Women.                                                                                                                                                                                                                                                  |
 | Enrolled        | Number of enrolled students.                                                                                                                                                                                                                                         |
+
+## Sources
+
+- Enrollment: [datos.gov.co](https://www.datos.gov.co/Educaci-n/MEN_MATRICULA_ESTADISTICA_ES/5wck-szir/data)
+- Programs: [datos.gov.co](https://www.datos.gov.co/Educaci-n/MEN_PROGRAMAS_DE_EDUCACI-N_SUPERIOR/upr9-nkiz/data)
